@@ -1,0 +1,18 @@
+p{
+    background-color: red;
+    display: inline;
+}
+a{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    display: block;
+}
+div{
+    background-color: tomato;
+    display: inline;
+}
+span{
+    background-color: chartreuse;
+    display: block;
+}
